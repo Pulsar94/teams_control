@@ -4,6 +4,10 @@ De plus, le fait d'avoir une interface physique peux faciliter l'utilisation de 
 
 <img src="./img/Boitier_Teams_Control.png" alt="drawing" width="350"/>
 
-# Instructions
+# Mise en place
 Dezipper `Interaction_Teams/libopenblas.FB5AE2TYXYH2IJRDKGDGQ3XBKLKTF43H.gfortran-win_amd64`\
 Modifier le `YOUR_PATH` en inserant le path du fichier `Interaction_Teams` dans le fichier `Teams_Control/Teams_Control.ino` à la ligne 63, 79 & 93.
+Uploader le fichier `Teams_Control.ino` sur une carte arduino ou autre.\
+
+# Instructions
+Dès qu'une réunion est lancée, appuyer sur les boutons pour activer chaque actions
